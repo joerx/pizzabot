@@ -1,15 +1,28 @@
 {
-  "name": "kitbot",
+  "name": "pizzabot",
   "version": "1.0.0",
-  "description": "",
+  "description": "A bot to order Pizza",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "pizza",
+    "slack",
+    "bot"
+  ],
+  "author": "Jörg Henning <henning.joerg@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "botkit": "0.0.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joerx/pizzabot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joerx/pizzabot/issues"
+  },
+  "homepage": "https://github.com/joerx/pizzabot#readme"
 }
