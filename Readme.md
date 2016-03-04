@@ -6,3 +6,5 @@ Usage: [create a bot user](https://api.slack.com/bot-users), get the token, then
 
 In Slack, either `@{{bot_name}} pizza` or send a direct message `pizza`.
 
+![Preview](https://raw.githubusercontent.com/joerx/pizzabot/master/screenshot.png)
+
